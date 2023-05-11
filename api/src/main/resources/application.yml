@@ -1,0 +1,12 @@
+# Tomcat
+server:
+  port: 82
+
+# 抖音api配置
+tictok:
+  starter:
+    config:
+      enable: true
+    app-key: tte2f3944e7dcf50bc01
+    app-secret: d4a098ed8505e47c24d104d9c01aacfc400ac9c7
+    api-url: https://open-sandbox.douyin.com
